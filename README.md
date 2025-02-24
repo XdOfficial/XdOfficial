@@ -31,9 +31,7 @@ I'm a passionate **UI/UX designer** and **frontend developer** with over **4 yea
 - **Other**: SEO | Web Performance Optimization | Site Maintenance  
 
 ### 📫 Let's Connect!  
-- **Portfolio**: [Coming Soon]  
-- **LinkedIn**: [Your LinkedIn Link]  
-- **Twitter/X**: [Your Twitter/X Link]  
+- **Portfolio**: [Coming Soon]   
 - **GitHub**: [github.com/ismailsheikh](https://github.com/ismailsheikh)  
 
 Always open to collaboration and exciting new projects! 🚀  
